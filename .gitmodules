@@ -1,0 +1,3 @@
+[submodule "S3BERT"]
+	path = S3BERT
+	url = https://github.com/flipz357/S3BERT.git
